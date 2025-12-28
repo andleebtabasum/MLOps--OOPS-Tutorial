@@ -1,0 +1,27 @@
+1.Class and obj example
+    >constructors/dunder methods
+2.class has data/attributes and func/methods
+    >code walkthrough
+    >attributes get called itself ,methods are called manually
+
+3. Why is python  an OOP language?
+4.Advantages of OOPS:
+    > create your own datattype
+    > code reusability
+    > debugging
+    > easy to colab
+
+5. End to End Project (Chatbook) -- Modularity 
+  > function vs method
+  > magic method or dunder method 
+  > seld 
+  > you can create attribute outside the class
+
+
+
+
+
+
+    > encapsulation
+    > getter & setter
+    > static method
